@@ -106,7 +106,7 @@ author:
       url: "j26810@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://capybara12.github.io/"
+      url: "https://capybara12.github.io/"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -115,7 +115,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/capybara12/"
+      url: "https://github.com/capybara12/"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -135,7 +135,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/capybara12/"
+      url: "https://github.com/capybara12/"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
